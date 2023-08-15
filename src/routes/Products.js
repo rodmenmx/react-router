@@ -1,5 +1,5 @@
-const ProductsPage = () => {
-  return <div>We are the Products</div>;
-};
+function ProductsPage() {
+  return <h1>We are the Products</h1>;
+}
 
 export default ProductsPage;
